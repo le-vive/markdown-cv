@@ -1,91 +1,100 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Vivien NICOLESSI's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Vivien NICOLESSI
+Quality Assurance Engineer & automation lover
+
+![Profile picture](/profilePicture.jpg)
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+388 Chemin du Moulin des Vignes<br/>
+84200 CARPENTRAS (France)<br/>
+<a href="vivien.nicolessi@gmail.com">vivien.nicolessi@gmail.com</a><br/>
+(+33)6.13.03.80.53<br/>
+32 years old<br/>
+Driving licence
 </div>
 
 
-## Currently
+## Professionnal experiences
 
-Standing on the shoulders of giants
+### Quadient shipping - QA engineer: 2016 - Now 
 
-### Specialized in
+Created a system who tests our environments in one click (via jenkins, postman, customs apps) and generate reports.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+* Load tests via Jmeter/ blazemeter
+* Security via Burp / Qualys
+* System tests via openshift (api) / postman
+* Functional tests via:
+	* Selenium (surchaged by python to manage BDD)
+	* postman (with dynamic data)
+	* customs tools I develop to complete tests
 
+### B-pack - QA: 2013 – 2015
 
-### Research interests
+* Create / perform test cases
+* Report to american teams
+* Automated tests via smartBear application
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### IS2 (New-Caledonia) - IT technician: 2012 – 2013
 
+* Diagnostic & fix HP computers
+* Install and fix biometric passport center
+
+### Stardust - Apps phone QA: 2011 – 2012
+
+* Create work protocoles
+* Test iOs / Windows Phone 7 / Android / web apps
+* Create tests reports
+
+Mission Android QA for ORANGE VALLEE - Paris
+
+* Manage 4 testers (english only)
+* Create / perform test cases
+* Write technical documentations (english only)
+
+### Presagis (Canada) - Developer: April - July 2010
+
+* Develop Python app (jira pluggins) to analyze errors risks for files in a project
+
+## Skills
+
+### Languages spoken
+
+* **French**: Native
+* **English**: Good, speak/read/write
+* **Italian**: Basics
+
+### Programming languages
+
+Python, Java, JS, Php (Html/CSS, batch, shell, SQL)
+
+### Applications
+
+Postman/Newman, Jenkins, Subversion/Git , Jira/Confluence, IntelliJ idea/Pycharm,<br/>
+DBeaver, Jmeter, Soapui
+
+### Software developement
+
+Scrum, BDD, TDD, kanban
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+* 2010 	 DUT Informatique - Génie logiciel,  Aix-en-Provence 13100
+* 2008 	 Baccalauréat Scientifique,	     Carpentras 84200
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Miscellaneous
 
-- Sizar
+* Creative 
+* Smiling
+* Joyful kind
+* Love to learn
+* Open minded
+	
+## Hobbies
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+* Music
+* Do it yourselft /fixing stuff (renovating a house)
+* Sport (Snowboard, VTT, Volley)
+* Voyage
