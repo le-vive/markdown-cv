@@ -17,7 +17,7 @@ Driving licence
 
 ## Professionnal experiences
 
-### **Quadient shipping** - QA engineer: 2016 - Now 
+### **Quadient** - QA engineer: 2016 - Now 
 
 Created a system who tests our environments in one click (via jenkins, postman, customs apps) and generate reports.
 
