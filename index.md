@@ -10,10 +10,8 @@ Quality Assurance Engineer & automation lover
 <div id="webaddress">
 388 Chemin du Moulin des Vignes<br/>
 84200 CARPENTRAS (France)<br/>
-<a href="vivien.nicolessi@gmail.com">vivien.nicolessi@gmail.com</a><br/>
-(+33)6.13.03.80.53<br/>
-32 years old<br/>
-Driving licence
+<a href="vivien.nicolessi@gmail.com">vivien.nicolessi@gmail.com</a> | (+33)6.13.03.80.53<br/>
+32 years old | Driving licence
 </div>
 
 
