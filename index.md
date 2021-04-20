@@ -17,7 +17,7 @@ Driving licence
 
 ## Professionnal experiences
 
-### Quadient shipping - QA engineer: 2016 - Now 
+### **Quadient shipping** - QA engineer: 2016 - Now 
 
 Created a system who tests our environments in one click (via jenkins, postman, customs apps) and generate reports.
 
@@ -29,18 +29,18 @@ Created a system who tests our environments in one click (via jenkins, postman, 
 	* postman (with dynamic data)
 	* customs tools I develop to complete tests
 
-### B-pack - QA: 2013 – 2015
+### **B-pack** - QA: 2013 – 2015
 
 * Create / perform test cases
 * Report to american teams
 * Automated tests via smartBear application
 
-### IS2 (New-Caledonia) - IT technician: 2012 – 2013
+### **IS2** (New-Caledonia) - IT tech: 2012 – 2013
 
 * Diagnostic & fix HP computers
 * Install and fix biometric passport center
 
-### Stardust - Apps phone QA: 2011 – 2012
+### **Stardust** - Apps phone QA: 2011 – 2012
 
 * Create work protocoles
 * Test iOs / Windows Phone 7 / Android / web apps
@@ -52,7 +52,7 @@ Mission Android QA for ORANGE VALLEE - Paris
 * Create / perform test cases
 * Write technical documentations (english only)
 
-### Presagis (Canada) - Developer: April - July 2010
+### **Presagis** (Canada) - Developer: 2010
 
 * Develop Python app (jira pluggins) to analyze errors risks for files in a project
 
