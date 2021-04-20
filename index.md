@@ -3,7 +3,7 @@ layout: cv
 title: Vivien NICOLESSI's CV
 ---
 # Vivien NICOLESSI
-| Quality Assurance Engineer & automation lover | ![Profile picture](/profilePicture.jpg)
+Quality Assurance Engineer & automation lover       ![Profile picture](/profilePicture.png)
 
 <div id="webaddress">
 388 Chemin du Moulin des Vignes<br/>
