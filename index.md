@@ -10,7 +10,7 @@ Quality Assurance Engineer & automation lover &#9; &#9; ![Profile picture](/prof
 84200 CARPENTRAS (France)<br/>
 <a href="vivien.nicolessi@gmail.com">vivien.nicolessi@gmail.com</a><br/>
 (+33)6.13.03.80.53<br/>
-32 years old<br/>
+33 years old<br/>
 Driving licence
 </div>
 
@@ -54,7 +54,7 @@ Mission Android QA for ORANGE VALLEE - Paris
 
 ### **Presagis** (Canada) - Developer: 2010
 
-* Develop Python app (jira pluggins) to analyze errors risks for files in a project
+* Develop Python app (jira pluggin) to analyze errors risks for files in a project
 
 ## Skills
 
@@ -66,7 +66,7 @@ Mission Android QA for ORANGE VALLEE - Paris
 
 ### Programming languages
 
-Python, Java, JS, Php (Html/CSS, batch, shell, SQL)
+Python, Java, JS, Php ,Html/CSS, batch, shell, SQL
 
 ### Applications
 
@@ -93,6 +93,6 @@ Scrum, BDD, TDD, kanban
 ## Hobbies
 
 * Music
-* Do it yourselft /fixing stuff (renovating a house)
+* Do it yourselft / fixing stuff (renovating a house)
 * Sport (Snowboard, VTT, Volley)
-* Voyage
+* Travels
