@@ -26,8 +26,8 @@ Created a system who tests our environments in one click (via jenkins, postman, 
 * System tests via openshift (api) / postman
 * Functional tests via:
 	* Selenium (python) + behave (BDD)
-	* Postman (with dynamic data)
-	* customs tools I develop to complete tests
+	* Postman (with dynamic data) + integration in CI CD (newman + jenkins)
+	* Customs tools (self made in Python / bash) to complete tests
 
 ### **B-pack** - QA: 2013 – 2015
 
