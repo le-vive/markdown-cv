@@ -25,7 +25,7 @@ Created a system who tests our environments in one click (via jenkins, postman, 
 * Security via Burp / Qualys
 * System tests via openshift (api) / postman
 * Functional tests via:
-	* Selenium (surchaged by python to manage BDD)
+	* Selenium (python) + behave (BDD)
 	* Postman (with dynamic data)
 	* customs tools I develop to complete tests
 
